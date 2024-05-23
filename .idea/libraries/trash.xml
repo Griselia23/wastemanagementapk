@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trash">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ML/dataset/trash.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
